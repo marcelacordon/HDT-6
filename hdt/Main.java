@@ -7,7 +7,7 @@
 
  public class Main {
     public static void main(String[] args) {
-        Controlador controler= new Controlador(); 
+        Controller controler= new Controller(); 
         controler.principal();
 
     }
